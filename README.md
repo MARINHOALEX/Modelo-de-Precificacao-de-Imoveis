@@ -1,4 +1,4 @@
-# Modelo de Precificação - House Prices
+# Modelo de Precificação de Imóveis
 
 Este projeto tem como objetivo desenvolver um modelo preditivo para estimar o preço de imóveis com base em diversas características. Utilizando técnicas de regressão, busco analisar e prever os valores de venda de casas.
 
